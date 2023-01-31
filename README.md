@@ -1,5 +1,5 @@
 # Assignment-1
-assignment submission for Graphics 370
+assignment submission for Graphics 375
 
 The WebGL application I found was this fluid motion simulator. I chose this because
 it is an unique application that is fairly optimized for something simulating thousands
